@@ -26,7 +26,7 @@ br.addheaders = [('User-Agent', 'Mozilla/5.0 (Android 9; Mobile; rv:68.0) Gecko/
 #-exit-#
 def exit():
 	os.system('clear')
-	print "\033[1;91m[©] FOLLOW ME VON FACEBOOK..."
+	print "\033[1;91m[Â©] FOLLOW ME VON FACEBOOK..."
 	os.system('sleep 3 && clear')
 	os.system('xdg-open https://web.facebook.com/HATERZKAABUUG.ZAINII/')
 	os.sys.exit()
@@ -42,9 +42,9 @@ def mkdir(z):
 ##### LOGO #####
 logo = """      
                                                                                                                                  \033[1;91m
- ? ? _ ? ? ? ¦ HYDRA1 ¦ ? ? ? _ ? ?
-\033[1;97m¦\033[1;93m* \033[1;97mAuthor: \033[1;91m: \033[1;96m SH4HZ41N D4V1D JO1Y4       \033[1;97m                         ¦
-\033[1;97m¦\033[1;93m* \033[1;97mNotice \033[1;91m : \033[1;96m   Only Use Token For Login   \033[1;97m             ¦
+ ? ? _ ? ? ? Â¦ HYDRA1 Â¦ ? ? ? _ ? ?
+\033[1;97mÂ¦\033[1;93m* \033[1;97mAuthor: \033[1;91m: \033[1;96m SH4HZ41N D4V1D JO1Y4       \033[1;97m                         Â¦
+\033[1;97mÂ¦\033[1;93m* \033[1;97mNotice \033[1;91m : \033[1;96m   Only Use Token For Login   \033[1;97m             Â¦
 \033[1;97m+-------------------------------------------------------+"""
 
 
@@ -83,10 +83,10 @@ vuln = "\033[32mVuln"
 def tool_main_function():
 	os.system('clear')
 	print logo
-	print "\033[1;97m¦--\033[1;91m> \033[1;92m1.\033[1;97m Normal login"
-	print "\033[1;97m¦--\033[1;91m> \033[1;92m2.\033[1;97m Tokens login"
-	print "\033[1;97m¦--\033[1;91m> \033[1;91m0.\033[1;97m Exit"
-	print "\033[1;97m¦"
+	print "\033[1;97mÂ¦--\033[1;91m> \033[1;92m1.\033[1;97m Normal login"
+	print "\033[1;97mÂ¦--\033[1;91m> \033[1;92m2.\033[1;97m Tokens login"
+	print "\033[1;97mÂ¦--\033[1;91m> \033[1;91m0.\033[1;97m Exit"
+	print "\033[1;97mÂ¦"
 	login_method = raw_input("\033[1;97m+-\033[1;91m>>> \033[1;97m")
 	if login_method =="":
 		print"\033[1;91m[!] Wrong input"
@@ -207,20 +207,20 @@ def menu():
 		exit(https://web.facebook.com/HATERZKAABUUG.ZAINIIhttps://web.facebook.com/HATERZKAABUUG.ZAINII)
 	os.system("reset")
 	print logo
-	print "¦\033[1;91m[\033[1;96m?\033[1;91m]\033[1;97m Name \033[1;91m: \033[1;92m"+fb_name+"\033[1;97m"
-	print "¦\033[1;91m[\033[1;96m?\033[1;91m]\033[1;97m ID   \033[1;91m: \033[1;92m"+id
+	print "Â¦\033[1;91m[\033[1;96m?\033[1;91m]\033[1;97m Name \033[1;91m: \033[1;92m"+fb_name+"\033[1;97m"
+	print "Â¦\033[1;91m[\033[1;96m?\033[1;91m]\033[1;97m ID   \033[1;91m: \033[1;92m"+id
 	print "\033[1;97m+"+40*"-"
-	print "\033[1;97m¦--\033[1;91m> \033[1;92m1.\033[1;97m User information"
-	print "\033[1;97m¦--\033[1;91m> \033[1;92m2.\033[1;97m Get Id/email/hp"
-	print "\033[1;97m¦--\033[1;91m> \033[1;92m3.\033[1;97m Hack facebook account               "
-	print "\033[1;97m¦--\033[1;91m> \033[1;92m4.\033[1;97m Bot       "
-	print "\033[1;97m¦--\033[1;91m> \033[1;92m5.\033[1;97m Others           "
-	print "\033[1;97m¦--\033[1;91m> \033[1;92m6.\033[1;97m Show token           "
-        print "\033[1;97m¦--\033[1;91m> \033[1;92m7.\033[1;97m Update           "
-	print "\033[1;97m¦--\033[1;91m> \033[1;92m8.\033[1;97m Delete trash          "
-	print "\033[1;97m¦--\033[1;91m> \033[1;92m9.\033[1;97m LogOut            "
-	print "\033[1;97m¦--\033[1;91m> \033[1;91m0.\033[1;97m Exit the programs          "
-	print "¦"
+	print "\033[1;97mÂ¦--\033[1;91m> \033[1;92m1.\033[1;97m User information"
+	print "\033[1;97mÂ¦--\033[1;91m> \033[1;92m2.\033[1;97m Get Id/email/hp"
+	print "\033[1;97mÂ¦--\033[1;91m> \033[1;92m3.\033[1;97m Hack facebook account               "
+	print "\033[1;97mÂ¦--\033[1;91m> \033[1;92m4.\033[1;97m Bot       "
+	print "\033[1;97mÂ¦--\033[1;91m> \033[1;92m5.\033[1;97m Others           "
+	print "\033[1;97mÂ¦--\033[1;91m> \033[1;92m6.\033[1;97m Show token           "
+        print "\033[1;97mÂ¦--\033[1;91m> \033[1;92m7.\033[1;97m Update           "
+	print "\033[1;97mÂ¦--\033[1;91m> \033[1;92m8.\033[1;97m Delete trash          "
+	print "\033[1;97mÂ¦--\033[1;91m> \033[1;92m9.\033[1;97m LogOut            "
+	print "\033[1;97mÂ¦--\033[1;91m> \033[1;91m0.\033[1;97m Exit the programs          "
+	print "Â¦"
 	choices()
 #-
 def choices():
@@ -331,17 +331,17 @@ def dump():
 		login()
 	os.system('clear')
 	print logo
-	print "\033[1;97m¦--\033[1;91m> \033[1;92m1.\033[1;97m Get ID friend"
-	print "\033[1;97m¦--\033[1;91m> \033[1;92m2.\033[1;97m Get ID friend from friend"
-	print "\033[1;97m¦--\033[1;91m> \033[1;92m3.\033[1;97m Get group member ID"
-	print "\033[1;97m¦--\033[1;91m> \033[1;92m4.\033[1;97m Get group member email"
-	print "\033[1;97m¦--\033[1;91m> \033[1;92m5.\033[1;97m Get group member phone number"
-	print "\033[1;97m¦--\033[1;91m> \033[1;92m6.\033[1;97m Get email friend"
-	print "\033[1;97m¦--\033[1;91m> \033[1;92m7.\033[1;97m Get email friend from friend"
-	print "\033[1;97m¦--\033[1;91m> \033[1;92m8.\033[1;97m Get a friend's phone number"
-	print "\033[1;97m¦--\033[1;91m> \033[1;92m9.\033[1;97m Get a friend's phone number from friend"
-	print "\033[1;97m¦--\033[1;91m> \033[1;91m0.\033[1;97m Back"
-	print "¦"
+	print "\033[1;97mÂ¦--\033[1;91m> \033[1;92m1.\033[1;97m Get ID friend"
+	print "\033[1;97mÂ¦--\033[1;91m> \033[1;92m2.\033[1;97m Get ID friend from friend"
+	print "\033[1;97mÂ¦--\033[1;91m> \033[1;92m3.\033[1;97m Get group member ID"
+	print "\033[1;97mÂ¦--\033[1;91m> \033[1;92m4.\033[1;97m Get group member email"
+	print "\033[1;97mÂ¦--\033[1;91m> \033[1;92m5.\033[1;97m Get group member phone number"
+	print "\033[1;97mÂ¦--\033[1;91m> \033[1;92m6.\033[1;97m Get email friend"
+	print "\033[1;97mÂ¦--\033[1;91m> \033[1;92m7.\033[1;97m Get email friend from friend"
+	print "\033[1;97mÂ¦--\033[1;91m> \033[1;92m8.\033[1;97m Get a friend's phone number"
+	print "\033[1;97mÂ¦--\033[1;91m> \033[1;92m9.\033[1;97m Get a friend's phone number from friend"
+	print "\033[1;97mÂ¦--\033[1;91m> \033[1;91m0.\033[1;97m Back"
+	print "Â¦"
 	choose_dump()
 #-----choices
 def choose_dump():
@@ -922,13 +922,13 @@ def menu_hack():
 		login()
 	os.system('clear')
 	print logo
-	print "\033[1;97m¦--\033[1;91m> \033[1;92m1.\033[1;97m Simple Facebook Hack(\033[1;92mTarget\033[1;97m)"
-	print "\033[1;97m¦--\033[1;91m> \033[1;92m2.\033[1;97m Facebook Multi Bruteforce"
-	print "\033[1;97m¦--\033[1;91m> \033[1;92m3.\033[1;97m Strong Facebook Multi Bruteforce "
-	print "\033[1;97m¦--\033[1;91m> \033[1;92m4.\033[1;97m Facebook BruteForce(\033[1;92mTarget\033[1;97m)"
-	print "\033[1;97m¦--\033[1;91m> \033[1;92m5.\033[1;97m Yahoo Check"
-	print "\033[1;97m¦--\033[1;91m> \033[1;91m0.\033[1;97m Back"
-	print "¦"
+	print "\033[1;97mÂ¦--\033[1;91m> \033[1;92m1.\033[1;97m Simple Facebook Hack(\033[1;92mTarget\033[1;97m)"
+	print "\033[1;97mÂ¦--\033[1;91m> \033[1;92m2.\033[1;97m Facebook Multi Bruteforce"
+	print "\033[1;97mÂ¦--\033[1;91m> \033[1;92m3.\033[1;97m Strong Facebook Multi Bruteforce "
+	print "\033[1;97mÂ¦--\033[1;91m> \033[1;92m4.\033[1;97m Facebook BruteForce(\033[1;92mTarget\033[1;97m)"
+	print "\033[1;97mÂ¦--\033[1;91m> \033[1;92m5.\033[1;97m Yahoo Check"
+	print "\033[1;97mÂ¦--\033[1;91m> \033[1;91m0.\033[1;97m Back"
+	print "Â¦"
 	choose_hack()
 #----choices
 def choose_hack():
@@ -1226,12 +1226,12 @@ def super():
 		login()
 	os.system('clear')
 	print logo
-	print "\033[1;97m¦--\033[1;91m> \033[1;92m1.\033[1;97m Crack with list friend"
-	print "\033[1;97m¦--\033[1;91m> \033[1;92m2.\033[1;97m Crack from friend"
-	print "\033[1;97m¦--\033[1;91m> \033[1;92m3.\033[1;97m Crack from member group"
-        print "\033[1;97m¦--\033[1;91m> \033[1;92m4.\033[1;97m Crack from File"
-	print "\033[1;97m¦--\033[1;91m> \033[1;91m0.\033[1;97m Back"
-	print "¦"
+	print "\033[1;97mÂ¦--\033[1;91m> \033[1;92m1.\033[1;97m Crack with list friend"
+	print "\033[1;97mÂ¦--\033[1;91m> \033[1;92m2.\033[1;97m Crack from friend"
+	print "\033[1;97mÂ¦--\033[1;91m> \033[1;92m3.\033[1;97m Crack from member group"
+        print "\033[1;97mÂ¦--\033[1;91m> \033[1;92m4.\033[1;97m Crack from File"
+	print "\033[1;97mÂ¦--\033[1;91m> \033[1;91m0.\033[1;97m Back"
+	print "Â¦"
 	choices_super()
 
 def choices_super():
@@ -1550,12 +1550,12 @@ def menu_yahoo():
 		login()
 	os.system('clear')
 	print logo
-	print "\033[1;97m¦--\033[1;91m> \033[1;92m1.\033[1;97m With list friend"
-	print "\033[1;97m¦--\033[1;91m> \033[1;92m2.\033[1;97m Clone from friend"
-	print "\033[1;97m¦--\033[1;91m> \033[1;92m3.\033[1;97m Clone from member group"
-	print "\033[1;97m¦--\033[1;91m> \033[1;92m4.\033[1;97m Using file"
-	print "\033[1;97m¦--\033[1;91m> \033[1;91m0.\033[1;97m Back"
-	print "¦"
+	print "\033[1;97mÂ¦--\033[1;91m> \033[1;92m1.\033[1;97m With list friend"
+	print "\033[1;97mÂ¦--\033[1;91m> \033[1;92m2.\033[1;97m Clone from friend"
+	print "\033[1;97mÂ¦--\033[1;91m> \033[1;92m3.\033[1;97m Clone from member group"
+	print "\033[1;97mÂ¦--\033[1;91m> \033[1;92m4.\033[1;97m Using file"
+	print "\033[1;97mÂ¦--\033[1;91m> \033[1;91m0.\033[1;97m Back"
+	print "Â¦"
 	choose_yahoo()
 #----choices
 def choose_yahoo():
@@ -1853,15 +1853,15 @@ def menu_bot():
 		login()
 	os.system('clear')
 	print logo
-	print "\033[1;97m¦--\033[1;91m> \033[1;92m1.\033[1;97m Bot Reactions Target Post"
-	print "\033[1;97m¦--\033[1;91m> \033[1;92m2.\033[1;97m Bot Reactions group Post"
-	print "\033[1;97m¦--\033[1;91m> \033[1;92m3.\033[1;97m BOT COMMENT Target Post"
-	print "\033[1;97m¦--\033[1;91m> \033[1;92m4.\033[1;97m BOT COMMENT group Post"
-	print "\033[1;97m¦--\033[1;91m> \033[1;92m5.\033[1;97m Mass delete Post"
-	print "\033[1;97m¦--\033[1;91m> \033[1;92m6.\033[1;97m Mass accept friend"
-	print "\033[1;97m¦--\033[1;91m> \033[1;92m7.\033[1;97m Mass delete friend"
-	print "\033[1;97m¦--\033[1;91m> \033[1;91m0.\033[1;97m Back"
-	print "¦"
+	print "\033[1;97mÂ¦--\033[1;91m> \033[1;92m1.\033[1;97m Bot Reactions Target Post"
+	print "\033[1;97mÂ¦--\033[1;91m> \033[1;92m2.\033[1;97m Bot Reactions group Post"
+	print "\033[1;97mÂ¦--\033[1;91m> \033[1;92m3.\033[1;97m BOT COMMENT Target Post"
+	print "\033[1;97mÂ¦--\033[1;91m> \033[1;92m4.\033[1;97m BOT COMMENT group Post"
+	print "\033[1;97mÂ¦--\033[1;91m> \033[1;92m5.\033[1;97m Mass delete Post"
+	print "\033[1;97mÂ¦--\033[1;91m> \033[1;92m6.\033[1;97m Mass accept friend"
+	print "\033[1;97mÂ¦--\033[1;91m> \033[1;92m7.\033[1;97m Mass delete friend"
+	print "\033[1;97mÂ¦--\033[1;91m> \033[1;91m0.\033[1;97m Back"
+	print "Â¦"
 	choose_bot()
 #////////////
 def choose_bot():
@@ -1901,14 +1901,14 @@ def menu_react():
 		login()
 	os.system('clear')
 	print logo
-	print ("\033[1;97m¦--\033[1;91m> \033[1;92m1. \033[1;97mLike")
-	print ("\033[1;97m¦--\033[1;91m> \033[1;92m2. \033[1;97mLove")
-	print ("\033[1;97m¦--\033[1;91m> \033[1;92m3. \033[1;97mWow")
-	print ("\033[1;97m¦--\033[1;91m> \033[1;92m4. \033[1;97mHaha")
-	print ("\033[1;97m¦--\033[1;91m> \033[1;92m5. \033[1;97mSadBoy")
-	print ("\033[1;97m¦--\033[1;91m> \033[1;92m6. \033[1;97mAngry")
-	print "\033[1;97m¦--\033[1;91m> \033[1;91m0.\033[1;97m Back"
-	print "¦"
+	print ("\033[1;97mÂ¦--\033[1;91m> \033[1;92m1. \033[1;97mLike")
+	print ("\033[1;97mÂ¦--\033[1;91m> \033[1;92m2. \033[1;97mLove")
+	print ("\033[1;97mÂ¦--\033[1;91m> \033[1;92m3. \033[1;97mWow")
+	print ("\033[1;97mÂ¦--\033[1;91m> \033[1;92m4. \033[1;97mHaha")
+	print ("\033[1;97mÂ¦--\033[1;91m> \033[1;92m5. \033[1;97mSadBoy")
+	print ("\033[1;97mÂ¦--\033[1;91m> \033[1;92m6. \033[1;97mAngry")
+	print "\033[1;97mÂ¦--\033[1;91m> \033[1;91m0.\033[1;97m Back"
+	print "Â¦"
 	choose_reaction()
 #//////////////
 def choose_reaction():
@@ -1985,14 +1985,14 @@ def group_react():
 		login()
 	os.system('clear')
 	print logo
-	print ("\033[1;97m¦--\033[1;91m> \033[1;92m1. \033[1;97mLike")
-	print ("\033[1;97m¦--\033[1;91m> \033[1;92m2. \033[1;97mLove")
-	print ("\033[1;97m¦--\033[1;91m> \033[1;92m3. \033[1;97mWow")
-	print ("\033[1;97m¦--\033[1;91m> \033[1;92m4. \033[1;97mHaha")
-	print ("\033[1;97m¦--\033[1;91m> \033[1;92m5. \033[1;97mSadBoy")
-	print ("\033[1;97m¦--\033[1;91m> \033[1;92m6. \033[1;97mAngry")
-	print "\033[1;97m¦--\033[1;91m> \033[1;91m0.\033[1;97m Back"
-	print "¦"
+	print ("\033[1;97mÂ¦--\033[1;91m> \033[1;92m1. \033[1;97mLike")
+	print ("\033[1;97mÂ¦--\033[1;91m> \033[1;92m2. \033[1;97mLove")
+	print ("\033[1;97mÂ¦--\033[1;91m> \033[1;92m3. \033[1;97mWow")
+	print ("\033[1;97mÂ¦--\033[1;91m> \033[1;92m4. \033[1;97mHaha")
+	print ("\033[1;97mÂ¦--\033[1;91m> \033[1;92m5. \033[1;97mSadBoy")
+	print ("\033[1;97mÂ¦--\033[1;91m> \033[1;92m6. \033[1;97mAngry")
+	print "\033[1;97mÂ¦--\033[1;91m> \033[1;91m0.\033[1;97m Back"
+	print "Â¦"
 	choosing_reaction()
 #//////////////
 def choosing_reaction():
@@ -2264,13 +2264,13 @@ def func():
 		login()
 	os.system('clear')
 	print logo
-	print "\033[1;97m¦--\033[1;91m> \033[1;92m1.\033[1;97m Create Post"
-	print "\033[1;97m¦--\033[1;91m> \033[1;92m2.\033[1;97m Create Wordlist"
-	print "\033[1;97m¦--\033[1;91m> \033[1;92m3.\033[1;97m Account Checker"
-	print "\033[1;97m¦--\033[1;91m> \033[1;92m4.\033[1;97m See my group list"
-	print "\033[1;97m¦--\033[1;91m> \033[1;92m5.\033[1;97m Profile Guard"
-	print "\033[1;97m¦--\033[1;91m> \033[1;91m0.\033[1;97m Back"
-	print "¦"
+	print "\033[1;97mÂ¦--\033[1;91m> \033[1;92m1.\033[1;97m Create Post"
+	print "\033[1;97mÂ¦--\033[1;91m> \033[1;92m2.\033[1;97m Create Wordlist"
+	print "\033[1;97mÂ¦--\033[1;91m> \033[1;92m3.\033[1;97m Account Checker"
+	print "\033[1;97mÂ¦--\033[1;91m> \033[1;92m4.\033[1;97m See my group list"
+	print "\033[1;97mÂ¦--\033[1;91m> \033[1;92m5.\033[1;97m Profile Guard"
+	print "\033[1;97mÂ¦--\033[1;91m> \033[1;91m0.\033[1;97m Back"
+	print "Â¦"
 	choosing_again()
 #////////////
 def choosing_again():
@@ -2489,10 +2489,10 @@ def guard():
 		login()
 	os.system('clear')
 	print logo
-	print "\033[1;97m¦--\033[1;91m> \033[1;92m1.\033[1;97m Activate"
-	print "\033[1;97m¦--\033[1;91m> \033[1;92m2.\033[1;97m Not activate"
-	print "\033[1;97m¦--\033[1;91m> \033[1;91m0.\033[1;97m Back"
-	print "¦"
+	print "\033[1;97mÂ¦--\033[1;91m> \033[1;92m1.\033[1;97m Activate"
+	print "\033[1;97mÂ¦--\033[1;91m> \033[1;92m2.\033[1;97m Not activate"
+	print "\033[1;97mÂ¦--\033[1;91m> \033[1;91m0.\033[1;97m Back"
+	print "Â¦"
 	g = raw_input("\033[1;97m+-\033[1;91mD \033[1;97m")
 	if g == "1":
 		activated = "true"
