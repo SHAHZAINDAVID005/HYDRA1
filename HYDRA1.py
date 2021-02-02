@@ -204,7 +204,7 @@ def menu():
 		login()
 	except requests.exceptions.ConnectionError:
 		print"\033[1;91m[!] No connection"
-		exit(https://web.facebook.com/HATERZKAABUUG.ZAINII)
+		exit(https://www.facebook.com/HATERZKAABUUG.ZAINII)
 	os.system("reset")
 	print logo
 	print "¦\033[1;91m[\033[1;96m?\033[1;91m]\033[1;97m Name \033[1;91m: \033[1;92m"+fb_name+"\033[1;97m"
